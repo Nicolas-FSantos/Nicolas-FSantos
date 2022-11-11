@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-- 🔭 Atualmente trabalhanco com base de Web e Python
+- 🔭 Atualmente trabalhando com base de Web e Python
